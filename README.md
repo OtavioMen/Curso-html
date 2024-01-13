@@ -1,6 +1,6 @@
 # Curso-html
 Curso de formação da Dio de Html basico
-"""###
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -96,7 +96,7 @@ Curso de formação da Dio de Html basico
         qual o tipo de codificação da página (uma meta informação do documento), esta deve obrigatoriamente estar
         marcada no cabeçalho do mesmo documento.</p>
     <br>
-    """###
+
     <p>Dentro do elemento BODY sua estrutura de página terá os elementos semânticos da construção da sua página, onde
         serão declarados e identificados cabeçalhos, rodapé, conteúdo principal, etc.</p>
         <a href="#voltar">voltar</a>
